@@ -1,0 +1,11 @@
+{
+    "type": "mysql",
+    "host": "148.113.172.140",
+    "port": 3306,
+    "username": "root",
+    "password": "guerreirosdacatolica",
+    "database": "mysql",
+    "synchronize": true,
+    "entities": ["src/models/**/*.ts"]
+  }
+  
